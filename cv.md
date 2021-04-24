@@ -10,4 +10,13 @@ I love learning new skills. Stared studing in ios 6 month ago , i want to become
 - UIKit
 - Snapkit
 - Git
-
+## Code examples
+```
+fileprivate lazy var stackViewForEmptyList: UIStackView = {
+        let stackView = UIStackView(arrangedSubviews: [imageForEmptyList, labelForEmptyList, buttonForEmptyList])
+        stackView.axis = .vertical
+        stackView.alignment = .center
+        stackView.spacing = 30
+        return stackView
+    }()
+```
