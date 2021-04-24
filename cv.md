@@ -20,3 +20,11 @@ fileprivate lazy var stackViewForEmptyList: UIStackView = {
         return stackView
     }()
 ```
+## Experience
+- HelpDesk almost 9 years
+
+## Education
+- Bachelor of IT at KRMU 🎓
+
+## English
+Pre-Intermediate
